@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hence-io/hence-util/issues"
   },
-  "homepage": "https://github.com/hence-io/hence-util"
+  "homepage": "https://github.com/hence-io/hence-util",
+  "dependencies": {
+    "glush-util": "git://github.com/hence-io/glush-util"
+  }
 }
