@@ -1,6 +1,6 @@
 {
   "name": "hence-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common utilities for the hence.io platform",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/hence-io/hence-util",
   "dependencies": {
-    "glush-util": "git://github.com/hence-io/glush-util"
+    "glush-util": "git://github.com/hence-io/glush-util",
+    "winston": "^1.0.1"
   }
 }

@@ -1,3 +1,4 @@
 module.exports = {
-  ascii: require('./lib/ascii')
+  ascii: require('./lib/ascii'),
+  logger: require('./lib/logger')
 };
