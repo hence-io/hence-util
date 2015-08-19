@@ -22,6 +22,8 @@
   "homepage": "https://github.com/hence-io/hence-util",
   "dependencies": {
     "glush-util": "git://github.com/hence-io/glush-util",
+    "lodash": "^3.10.1",
+    "shelljs": "^0.5.3",
     "winston": "^1.0.1"
   }
 }
